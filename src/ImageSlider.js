@@ -3,6 +3,6 @@ import React, {Component} from 'react';
 
 export default class ImageSlider extends Component {
   render(){
-    return()
+    return(<h1></h1>)
   }
 }
